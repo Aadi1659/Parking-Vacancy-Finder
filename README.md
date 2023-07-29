@@ -16,15 +16,22 @@ STREAMLIT, TENSORFLOW, OPEN-CV, MATPLOTLIB, SCIKIT-IMAGE
 
 ## Sources
 This project is inspired by https://github.com/steven-ari/parking_detect
+
 DATASET SOURCE: http://cnrpark.it/ (Download all 4)
 
-Deep learning for decentralized parking lot occupancy detection
-Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro Carlo Meghini and Claudio Vairo
-Published on Expert Systems with Applications 72, 327-334
+<ol>
+<li><a href="http://cnrpark.it/">Deep learning for decentralized parking lot occupancy detection</a>
 
-Car parking occupancy detection using smart camera networks and Deep Learning
+Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro Carlo Meghini and Claudio Vairo
+
+Published on Expert Systems with Applications 72, 327-334 </li>
+
+<li><a href="http://cnrpark.it/">Car parking occupancy detection using smart camera networks and Deep Learning</a>
+
 Giuseppe Amato, Fabio Carrara, Fabrizio Falchi, Claudio Gennaro and Claudio Vairo
-Accepted at 2016 IEEE Symposium on Computers and Communication (ISCC)
+
+Accepted at 2016 IEEE Symposium on Computers and Communication (ISCC)</li>
+</ol>
 
 ## Goals
 Implement a smart CCTV camera by implementing the model using Raspberry Pi/Arduino
